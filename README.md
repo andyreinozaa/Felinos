@@ -1,7 +1,7 @@
-#Felino y Chita 🐆
+# Felino y Chita 🐆
 Este código define clases para modelar el comportamiento de los felinos e incluye funcionalidades para un felino genérico (Felino) y un tipo específico de felino llamado Chita (Guepardo). Aquí tienes una breve descripción del código:
 
-##Felino
+## Felino
 La clase Felino representa diferentes tipos de felinos. Tiene atributos para la energía y la necesidad de dormir (dormir). La clase incluye los siguientes métodos:
 
 get_energia: Devuelve el nivel de energía actual.
